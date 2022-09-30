@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Abhishek Pandey</h1>
-<h3 align="center">A Problem solver and development enthu</h3>
+<h3 align="center">A Problem solver and development enthusiast</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhiprd-219&label=Profile%20views&color=0e75b6&style=flat" alt="abhiprd-219" /> </p>
